@@ -18,8 +18,6 @@ This assignment focuses on basic statistical calculations performed using Google
 
 👉 [Click here to view the assignment in Google Sheets](https://docs.google.com/spreadsheets/d/1eH89gdMRGLgwXEVo9oxYFiIVWUAE4hLJORaQw6Ousc0/view?usp=sharing)
 
-> This file is set to "view only" access for public access.
-
 ---
 
 ## 📈 Notes
